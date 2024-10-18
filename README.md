@@ -91,10 +91,10 @@ Analog simulation by SPECTRE.
 •	Execute Simulation -- Net list and Run
 
 
-For Transient Analysis Settings and Output
+For Transient Analysis Settings 
  ![Screenshot 2024-10-18 104939](https://github.com/user-attachments/assets/e7a8b99b-9860-4994-8822-37757ef57fa1)
 
-
+ Output
  ![Screenshot 2024-10-18 104840](https://github.com/user-attachments/assets/0cb606c5-fc95-4029-b503-e565f595424b)
 
 
